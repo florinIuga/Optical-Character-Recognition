@@ -14,7 +14,7 @@ Probleme întâmpinate:
 
 Algoritmul utilizat:
 
--> algoritmul a presupus combinarea a mai mulți arbori de decizie pentru a da o
+-> algoritmul a presupus combinarea a mai multor arbori de decizie pentru a da o
    predicție mai bună. Primul pas pentru această combinare a fost antrenarea / 
    generarea fiecărui arbore prin primirea unor teste cu rezultat cunoscut.
    Apoi, am realizat etapa de prezicere, unde codul a trebuit să decidă ce
